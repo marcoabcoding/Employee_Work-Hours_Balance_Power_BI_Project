@@ -7,3 +7,8 @@ Time Conversion: Utilizes a method to convert hours and minutes into minutes to 
 DAX Formulas: Custom DAX formulas for precise calculation and display of time data in Power BI.
 Visualization: Offers a comprehensive dashboard showing average, maximum, and minimum time balances, along with a detailed breakdown for each employee.
 Indicator Legends: Incorporates legends to distinguish between positive and negative time balances for easy interpretation.
+
+![balance1](https://github.com/marcoabcoding/Employee_Work-Hours_Balance_Power_BI_Project/assets/86270206/df468f24-41e5-4f4f-8620-712bad40925c)
+
+
+![balance2](https://github.com/marcoabcoding/Employee_Work-Hours_Balance_Power_BI_Project/assets/86270206/eedbad8f-f8ba-4ebc-bb46-2ae6bd1309b6)
